@@ -1,0 +1,7 @@
+{
+    "data": [
+        {"version_id": 1, "cpe": {"cpe_label": "cpe:/a:hashicorp:consul:1.19.1", "cpe_norm_version": "2.2"}}, 
+        {"version_id": 3, "cpe": {"cpe_label": "cpe:2.3:a:hashicorp:consul:1.19.1:*:*:*:*:*:*:*", "cpe_norm_version": "2.3"}}, 
+        {"version_id": 6, "cpe": {"cpe_label": "cpe:/a:hashicorp:vault:1.16.4", "cpe_norm_version": "2.2"}}
+    ]
+}
